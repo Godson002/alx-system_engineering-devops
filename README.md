@@ -1,1 +1,1 @@
-This is a program that prints absolute path of the working doc
+This repo has the projects i did as a beginner
